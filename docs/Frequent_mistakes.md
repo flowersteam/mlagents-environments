@@ -21,7 +21,7 @@ Come back to [home](Home.md)
 When you start an environment, you can encounter this error : `list index out of range` (<span style="color:red">**red block**</span>).
 
 <p align="center">
-  <img src="images/gym_brain.png"
+  <img src="images/Gym_brain.png"
        alt="Learning brain error GYM"
        width="100%" border="10" />
 </p>
@@ -29,7 +29,7 @@ When you start an environment, you can encounter this error : `list index out of
 It means that the brain you add in the agent or in the academy is not a **learning brain**, or you don't check `control` in the Unity object academy. To correct this error, verify that the brain used is a `learning brain` and the `control` box is checked : <span style="color:green">**green block**</span>.
 
 <p align="center">
-  <img src="images/unity_brain.png"
+  <img src="images/Unity_brain.png"
        alt="Learning brain error Unity"
        width="70%" border="10" />
 </p>
@@ -41,7 +41,7 @@ It means that the brain you add in the agent or in the academy is not a **learni
 Each agent has different actions. The shape and the size of the action vector depend on the brain of the agent. You can encounter this kind of error (<span style="color:rgb(255,230,0)">**Yellow block**</span>) :
 
 <p align="center">
-  <img src="images/Actionerror.png"
+  <img src="images/ActionError.png"
        alt="Convert to JSON and send the object"
        width="100%" border="10" />
 </p>
@@ -55,7 +55,7 @@ This error means that the action you send has not the **shape and the size expec
 Each environment has parameters with different names. If you enter a wrong parameter, you can encounter this message (<span style="color:blue">**blue block**</span>): 
 
 <p align="center">
-  <img src="images/Parameter_Error.png"
+  <img src="images/Parameter_error.png"
        alt="Convert to JSON and send the object"
        width="100%" border="10" />
 </p>
@@ -64,7 +64,7 @@ To correct this error, check the **name of parameter** (uppercase, lowercase and
 
 
 
-##<a name="next_step">Next Step</a>
+## <a name="next_step">Next Step</a>
 
 Come back to [home](Home.md)
 
