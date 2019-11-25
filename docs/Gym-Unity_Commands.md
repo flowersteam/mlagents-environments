@@ -70,7 +70,7 @@ else:
 
 
 
-###<a name="control">Control the agent</a>
+### <a name="control">Control the agent</a>
 
 Each agent has different actions. The shape and the size of the action vector depend on the brain of the agent. It could be a simple integer or a table.
 
@@ -118,7 +118,7 @@ else:
 
 
 
-###<a name="parameters">Change the parameters of the reset</a>
+### <a name="parameters">Change the parameters of the reset</a>
 
 You can start a simulation by enabling or disabling parameters. Each environment has different editable parameters
 
@@ -146,7 +146,7 @@ env.reset('name_of_parameter', value)
 
 ## <a name="errors">Errors</a>
 
-###Action Error
+### Action Error
 
 If the shape of the action vector is wrong, the next warn appears and the simulation stops.
 
@@ -160,7 +160,7 @@ observation, reward, done, info = env.step([1, 0])
        width="100%" border="10" />
 </p>
 
-###Reset Parameter Error
+### Reset Parameter Error
 
 If the name of the reset parameter does not exist, a warn appears and the simulation stops.
 
