@@ -1,6 +1,8 @@
-# Unity ML-Agents Toolkit Documentation
+# Flowers environment Documentation
 
-## Use the Unity environments with GYM
+This documentation is an extension of the original ml-agents documentation (also available in [this subfolder](ML-Agents_documentation)). To meet the needs of exploration experimentation, a few changes were brought to the original ml-agent implementation. This documentation should give you the most important pieces to use the environments and eventually modify them. If you intend to do more, you can proceed with the original documentation.
+
+## Using the environments with openai-gym
 
 1. Installation
 
@@ -13,7 +15,6 @@
    * [Jupyter Notebook](Jupyter_Notebook.md)
 
    * [Gym-Unity's main commands](Gym-Unity_Commands.md)
-
 
 
 ## ML-Agents in Unity
