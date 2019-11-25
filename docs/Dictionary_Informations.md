@@ -28,7 +28,7 @@ The first step is to add, in the script of the agent extending the Agent class, 
 
 
 
-##<a name="convert">Convert to Json and send the class</a>
+## <a name="convert">Convert to Json and send the class</a>
 
 The next step is to add in the `CollectObservation()` function the method `JsonUtility.ToJson` with the values taken by the variables serializable. Then, call the method `SetInfoDict` with the object `toJSON` that transfer this object to a python script which deserializes it : <span style="color:blue">**blue block**</span>.
 
