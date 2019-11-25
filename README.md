@@ -16,17 +16,19 @@ This repository contains a set of [unity ml-agent](https://github.com/Unity-Tech
 
 ## Features
 
-* 6 new Unity environments
-
-* 16 ML-Agents sample Unity environments
-
-* No extrinsic reward
-
 * New environments designed with Unity 2018.4.2f1 version
-
 * ML-Agents 0.7 version
-
+* Python 3.6
 * Linux & Mac only
+
+## Flower's environments
+
+1. [PushBlocks](docs/Environments/PushBlocks.md)
+2. [Television](docs/Environments/Television.md)
+3. [MazeButtons (colored)](docs/Environments/MazeButtonsColored.md)
+4. [MazeButtons (textured)](docs/Environments/MazeButtonsTextured.md)
+5. [Drawing](docs/Environments/Drawing.md)
+6. [VideoGame](docs/Environments/VideoGame.md)
   
 
 ## Documentation
