@@ -24,7 +24,7 @@ The first step is to add, in the script of the academy object, a new `Reset Para
   <img src="images/Reset_Hierarchy.png"
        alt="Academy in hierarchy "
        width="40%" border="10" />
-    <img src="images/Reset_parameter.png"
+    <img src="images/Reset_Parameter.png"
        alt="Add a parameter "
        width="30%" border="10" />
 </p>
@@ -36,7 +36,7 @@ The first step is to add, in the script of the academy object, a new `Reset Para
 The next step is to create a behavior in the script of the academy extending the Academy class depending on the value of a parameter. In this example, we change the value of an information stored in the dictionary. We read the value of `Parameter_example` and change the behavior depending on it : <span style="color:blue">**blue block**</span>.
 
 <p align="center">
-  <img src="images/Reset_script.png"
+  <img src="images/Reset_Script.png"
        alt="script behavior"
        width="100%" border="10" />
 </p>
