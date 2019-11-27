@@ -1,11 +1,3 @@
-
-
-<p align="center">
-  <img src="docs/images/Logo-Inria.png" align="middle" width=30% style="margin-right:20%;"/>
-  <img src="docs/images/unity-wide.png" align="middle" width=30%/>
-</p>
-
-
 <img src="docs/images/AllEnvironments.png" align="middle" width=100%/>
 
 
