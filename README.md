@@ -1,8 +1,6 @@
-<img src="docs/images/AllEnvironments.png" align="middle" width=100%/>
-
-
-
 # Unity ML-Agents Environments for Curiosity Learning
+
+<img src="docs/images/AllEnvironments.png" align="middle" width=100%/>
 
 This repository contains a set of [unity ml-agent](https://github.com/Unity-Technologies/ml-agents) environments meant to be used in curiosity-based exploration algorithms, e.g. exploration without extrinsic reward.
 
