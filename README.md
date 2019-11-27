@@ -14,13 +14,6 @@
 
 This repository contains a set of [unity ml-agent](https://github.com/Unity-Technologies/ml-agents) environments meant to be used in curiosity-based exploration algorithms, e.g. exploration without extrinsic reward.
 
-## Features
-
-* New environments designed with Unity 2018.4.2f1 version
-* ML-Agents 0.7 version
-* Python 3.6
-* Linux & Mac only
-
 ## Flower's environments
 
 1. [PushBlocks](docs/Environments/PushBlocks.md)
@@ -42,6 +35,24 @@ This repository contains a set of [unity ml-agent](https://github.com/Unity-Tech
   
 * If you want to learn more about ML-Agents, see the last part of the documentation
 
+
+## Features
+
+* New environments designed with Unity 2018.4.2f1 version
+* ML-Agents 0.7 version
+* Python 3.6
+* Linux & Mac only
+
+## Installation
+
+This repository does not contain all the binaries and unity assets. To completely install the repository please follow this procedure :
+
+```bash
+$ git clone https://github.com/flowersteam/mlagents-environments.git
+$ cd mlagents-environments
+$ wget https://flowers.inria.fr/archives/mlagents-environment.tar.xz
+$ tar -zxvf mlagents-environment.tar.xz
+```
 
 ## Contact
 
