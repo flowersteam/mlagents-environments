@@ -50,8 +50,8 @@ This repository does not contain all the binaries and unity assets. To completel
 ```bash
 $ git clone https://github.com/flowersteam/mlagents-environments.git
 $ cd mlagents-environments
-$ wget https://flowers.inria.fr/archives/mlagents-environment.tar.xz
-$ tar -zxvf mlagents-environment.tar.xz
+$ wget https://flowers.inria.fr/archives/mlagents-environments.tar.xz
+$ tar -zxvf mlagents-environments.tar.xz
 ```
 
 ## Contact
