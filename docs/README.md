@@ -3,6 +3,12 @@
 This documentation is an extension of the original ml-agents documentation (also available in [this subfolder](ML-Agents_documentation)). To meet the needs of exploration experimentation, a few changes were brought to the original ml-agent implementation. This documentation should give you the most important pieces to use the environments and eventually modify them. If you intend to do more, you can proceed with the original documentation.
 
 ## Detailed installation
+Make sure you have git-lfs enabled.
+
+```bash
+$ apt-get install git-lfs
+$ git lfs install
+```
 
 Before attempting anything, make sure that you completed the installation of the repository by following this procedure:
 
