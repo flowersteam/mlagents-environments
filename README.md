@@ -17,7 +17,7 @@ This repository contains a set of [unity ml-agent](https://github.com/Unity-Tech
 ## Documentation
 
 * For more information, in addition to installation and usage instructions, see
-  our [documentation home](docs/Home.md).
+  our [documentation home](docs/README.md).
   
 * If you only want to use the new environments with Gym, see the first part of the documentation
 
